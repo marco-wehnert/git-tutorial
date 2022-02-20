@@ -1,3 +1,7 @@
 Changed alice.txt
+<<<<<<< HEAD
 X1
 X2
+=======
+Implemented new feature
+>>>>>>> a742d

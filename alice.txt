@@ -1,1 +1,2 @@
 Changed alice.txt
+Implemented new feature
